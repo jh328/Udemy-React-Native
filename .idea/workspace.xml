@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4851c15-04e2-4369-9ce8-3a581156147e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/section03/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/assets/adaptive-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/assets/images/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/assets/splash-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/components/GoalInput.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/components/GoalItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/section03/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jh328&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jh328/Junhan.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;bbd69910-5a8a-4593-982b-63ac0a1a480e&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2rAekgkswgM0HllNnL0WIMwKUYI" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/junhansong/Documents/udemy-RN-project/section03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Settings.JavaScript",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/section03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/section03" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4851c15-04e2-4369-9ce8-3a581156147e" name="Changes" comment="" />
+      <created>1736006451532</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736006451532</updated>
+      <workItem from="1736006452610" duration="54000" />
+      <workItem from="1736007339793" duration="5507000" />
+      <workItem from="1736075403955" duration="163000" />
+      <workItem from="1736075591816" duration="103000" />
+      <workItem from="1736075714927" duration="211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
